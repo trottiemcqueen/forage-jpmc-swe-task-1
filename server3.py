@@ -39,7 +39,7 @@ import dateutil.parser
 
 # Sim params
 
-REALTIME = True
+REALTIME = True                                                                                                                                                                                                                                                               
 SIM_LENGTH = timedelta(days=365 * 5)
 MARKET_OPEN = datetime.today().replace(hour=0, minute=30, second=0)
 
